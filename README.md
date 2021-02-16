@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![stats](https://github-readme-stats.vercel.app/api?username=kiyoaki)
+[![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoaki)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kiyoaki)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
