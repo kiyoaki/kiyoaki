@@ -1,6 +1,13 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=kiyoaki)
-[![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoaki)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiyoaki)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kiyoaki" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoaki" />
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=kiyoaki&theme=flat&no-frame=true&margin-w=30" />
+</div>
 
 <!--
 **kiyoaki/kiyoaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
